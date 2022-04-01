@@ -81,3 +81,7 @@ ul{
       width: 500px;
       line-height: 1;
   }
+
+  .copy{
+      color: lightgray;
+  }
