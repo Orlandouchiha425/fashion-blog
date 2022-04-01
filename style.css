@@ -1,3 +1,8 @@
-/* body{
-    background-color: red;
-} */
+body{
+    border-left-width: 5px;
+    border-color:rgb(241, 8, 8);
+    min-height:100vh;
+    font-family: sans-serif;
+    max-width: 1000px;
+    margin: auto;
+}
