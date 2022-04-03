@@ -11,7 +11,7 @@ export default  function Footer(props){
               <li><a href="#">About</a></li>
             </ul>
           </nav>
-   <div class="copy">&copy; 2013 Valet Industries, Inc</div> 
+   <div className="copy">&copy; 2013 Valet Industries, Inc</div> 
     </footer> 
 
     )
